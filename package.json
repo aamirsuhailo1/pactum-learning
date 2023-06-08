@@ -1,0 +1,16 @@
+{
+  "name": "pactum-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intro.test.js",
+  "scripts": {
+    "test": "mocha withqueryparams.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "pactum": "^3.4.1"
+  }
+}
